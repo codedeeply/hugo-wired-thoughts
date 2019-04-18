@@ -1,0 +1,12 @@
+a {
+  color: #ff6266;
+}
+.lain {
+	display:block;
+	background-image:url("404lain.gif");
+	width:838px;
+	height:650px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+}
