@@ -8,7 +8,7 @@ tags = ["personal", "identity", "coming out", "trans"]
 slug = "coming-out"
 +++
 
-*This is a personal post, being published for archival purposes. Future personal posts will also include the [#personal](https://www.stlain.net/tags/personal/) tag.*
+*This is a personal post, being published for archival purposes. Future personal posts will also include the [#personal](/tags/personal/) tag.*
 
 Hi there! Identity is a funny thing. Our understanding of who we are as individuals, how we perceive ourselves, and how others perceive us all flow and change over time. In this vein, after a lot of self-reflection I came to realize a few years ago that I am transgender!
 
